@@ -1,13 +1,15 @@
 ## Info Pessoal
 Nome: Otávio Salomão Rocha
 
+Turma M2
 
 Matrícula: 21104191
 
 Email: otavio.sr@inf.ufpel.edu.br
 
-
 Discord: Lekaso#5775
+
+Data: 10/02/2023
 
 # Código para a conversão de um número inteiro para um número romano, com range de 1 até 3999.
 
