@@ -11,7 +11,7 @@ Discord: Lekaso#5775
 
 Data: 10/02/2023
 
-# Código para a conversão de um número inteiro para um número romano, com range de 1 até 3999.
+# Código para realizar a conversão de um número inteiro para um número romano, com range de 1 até 3999.
 
 O funcionamento do programa está OK.
 
