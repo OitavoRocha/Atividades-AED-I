@@ -6,7 +6,7 @@ void Centena(int div);
 void Milhar(int div);
 
 int main() {
-    int n=3867;
+    int n;
     int resto10, resto100, resto1000;
     int div10, div100, div1000;
 
