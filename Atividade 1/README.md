@@ -20,6 +20,6 @@ Foram testados números aleatórios entre os dois valores citados e os extremos 
 O código foi implementado seguindo as regras de código legível do DOOM, que você pode encontrar clicando <a href="https://fabiensanglard.net/fd_proxy/doom3/CodeStyleConventions.pdf">aqui</a>.
 
 ## Como executar
-<gcc IntToRoman.c -o main -Wall>
+<pre><code>gcc IntToRoman.c -o main -Wall</code></pre>
 
 ###### Link para o vídeo: 
