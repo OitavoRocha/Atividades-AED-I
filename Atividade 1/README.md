@@ -7,4 +7,4 @@ O funcionamento do programa está OK.
 
 Foram testados números aleatórios entre os dois valores citados e os extremos também. Foram testados valores fora desse range, o que faz com que o programa repita a leitura do número, até este estar dentro do solicitado.
 
-O código foi implementado seguindo as regras de código legível do DOOM, que você pode encontrar clicando <a href="https://fabiensanglard.net/fd_proxy/doom3/CodeStyleConventions.pdf" target="_blank">aqui</a>
+O código foi implementado seguindo as regras de código legível do DOOM, que você pode encontrar clicando <a href="https://fabiensanglard.net/fd_proxy/doom3/CodeStyleConventions.pdf" target=_blank>aqui</a>
