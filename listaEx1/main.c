@@ -1,3 +1,9 @@
+/*
+Faça um programa que armazena nomes.
+O programa deve armazenar todos os nomes na mesma string
+O tamanho da string deve crescer e diminuir conforme nomes
+forem colocados ou removidos. Não pode ter desperdício de memória.
+*/
 #include<stdio.h>
 #include<stdlib.h>
 
