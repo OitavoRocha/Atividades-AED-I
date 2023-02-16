@@ -16,6 +16,6 @@ Feita utilizando alocação dinâmica.
 Código construido seguindo os padrões do DOOM de código legível, que você pode encontrar clicando <a href=https://fabiensanglard.net/fd_proxy/doom3/CodeStyleConventions.pdf>aqui</a>.
 
 ## Como executar
-<pre><code>gcc IntToRoman.c -o IntToRoman -Wall</code></pre>
+<pre><code>gcc main.c -o main -Wall</code></pre>
 
-<pre><code>./IntToRoman</code></pre>
+<pre><code>./main</code></pre>
