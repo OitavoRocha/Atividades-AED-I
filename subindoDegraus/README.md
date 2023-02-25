@@ -22,4 +22,4 @@ Durante minha pesquisa, encontrei dois videos que nortearam meu raciocínio e fo
 ## Links
 ###### Link para o exercício no LeetCode: https://leetcode.com/problems/climbing-stairs/
 
-###### Link para o meu vídeo: 
+###### Link para o meu vídeo: https://drive.google.com/file/d/1KPifVZuYvBiEj2FGtezYcNS48IPRv-L7/view?usp=sharing
