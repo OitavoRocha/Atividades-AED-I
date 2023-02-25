@@ -5,7 +5,7 @@ int main() {
     int* array;
     int n;
     
-    printf("Informe qual degrau voce que chegar: ");
+    printf("Informe qual degrau voce quer chegar: ");
     scanf("%d", &n);
 
     array = (int*)malloc(n*sizeof(int));
@@ -19,5 +19,7 @@ int main() {
 
     printf("Serao %d formas de chegar ate o degrau desejado\n", array[n-1]);
 
+    free(array);
+    
     return 0;
 }
